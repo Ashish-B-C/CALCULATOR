@@ -1,0 +1,21 @@
+.calcu{
+    width: 350px;
+    height: 480px;
+    background: linear-gradient(rgb(191, 175, 223),#07155b);
+    margin-left: 400px;
+    margin-top: 40px;border-radius: 30px;
+}
+#displayscreen{
+    width: 80%;
+    height: 40px;
+    background: beige;
+    margin-top: 27px;
+    pointer-events: none;
+    margin-left: 30px;
+}
+.btn{
+    width: 40px;
+    height: 35px;
+    margin-left: 34px;
+    margin-top: 34px;
+}
